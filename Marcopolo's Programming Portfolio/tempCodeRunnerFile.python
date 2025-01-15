@@ -1,0 +1,10 @@
+one = 1
+
+def makeshirt():
+    print("Hello World")
+    if one == 1:
+        print("This is a variable")
+    else:
+        print("lmao")
+
+makeshirt()
